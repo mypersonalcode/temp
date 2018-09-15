@@ -1,4 +1,5 @@
 public class test2 {
+    //这是一个test题，关于如何通过一个数组实现3个栈，我这边开发的固定大小的分为3个栈。
     int stackSize = 100;
     int[] buffer = new int[3 * stackSize];
     int[] stackPointer = {-1, -1, -1};
