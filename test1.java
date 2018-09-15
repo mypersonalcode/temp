@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSONException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
+//这个是一个test题，问题是如何获取一个数组内两个数之和等于target值，没有下标。
 public class test1 {
 
     public static void main(String[] args) {
